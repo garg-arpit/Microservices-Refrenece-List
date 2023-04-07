@@ -1,3 +1,4 @@
+
 # Microservices-Refrenece-List
 
 * [Circuit Breaker ~ netflix](http://doc.akka.io/docs/akka/snapshot/common/circuitbreaker.html)
@@ -15,3 +16,6 @@
 * [Microservices Config Server — Centralized Configuration with Spring Cloud](https://medium.com/@ijayakantha/microservices-centralized-configuration-with-spring-cloud-f2a1f7b78cc2)
 * [What is SAGA Pattern in Microservice Architecture? Which Problem does it solve?](https://medium.com/javarevisited/what-is-saga-pattern-in-microservice-architecture-which-problem-does-it-solve-de45d7d01d2b#:~:text=The%20SAGA%20(or%20Saga)%20pattern,is%20a%20separate%20database%20operation.)
 
+# JPA Projection
+
+* [Projection / custom object from repository layer](https://www.bytestree.com/spring/spring-data-jpa-projections-5-ways-return-custom-object/#close-projection)
